@@ -1,0 +1,638 @@
+{
+  "checked_at": "2026-09-10T19:49:16+00:00",
+  "scope": "All publicly listed files across the Android File Host profile, including every device and nested folder. GitHub counts cover the AR-Beast organization, including fork repositories.",
+  "android_file_host_profile": "https://androidfilehost.com/?w=profile&uid=673368273298917501",
+  "github_source": "https://api.github.com/orgs/AR-Beast/repos?per_page=100",
+  "total_downloads": 72126,
+  "total_files": 48,
+  "projects": {
+    "tomato": {
+      "source": "https://androidfilehost.com/?w=files&flid=160873",
+      "repository": "AR_Beast-Tomato",
+      "downloads": 5928,
+      "files": [
+        {
+          "name": "AR_Beast™-Kernel R1.zip",
+          "url": "https://androidfilehost.com/?fid=817550096634752876",
+          "downloads": 137
+        },
+        {
+          "name": "AR_Beast™-Kernel R2.zip",
+          "url": "https://androidfilehost.com/?fid=745425885120715995",
+          "downloads": 379
+        },
+        {
+          "name": "AR_Beast™-Kernel R3.zip",
+          "url": "https://androidfilehost.com/?fid=457095661767150751",
+          "downloads": 553
+        },
+        {
+          "name": "AR_Beast™-Kernel R4.zip",
+          "url": "https://androidfilehost.com/?fid=673368273298946948",
+          "downloads": 383
+        },
+        {
+          "name": "AR_Beast™-Kernel R5.zip",
+          "url": "https://androidfilehost.com/?fid=529152257862723716",
+          "downloads": 351
+        },
+        {
+          "name": "AR_Beast™-Kernel R6 NH and MB.zip",
+          "url": "https://androidfilehost.com/?fid=961840155545572399",
+          "downloads": 83
+        },
+        {
+          "name": "AR_Beast™-Kernel R6.zip",
+          "url": "https://androidfilehost.com/?fid=745425885120738452",
+          "downloads": 336
+        },
+        {
+          "name": "AR_Beast™-Kernel R7 NH and MB.zip",
+          "url": "https://androidfilehost.com/?fid=889764386195915116",
+          "downloads": 180
+        },
+        {
+          "name": "AR_Beast™-Kernel R7.zip",
+          "url": "https://androidfilehost.com/?fid=745425885120745455",
+          "downloads": 932
+        },
+        {
+          "name": "AR_Beast™-Kernel R8-O.zip",
+          "url": "https://androidfilehost.com/?fid=962021903579481993",
+          "downloads": 750
+        },
+        {
+          "name": "AR_Beast™-Kernel R9-O.zip",
+          "url": "https://androidfilehost.com/?fid=818070582850488842",
+          "downloads": 1844
+        }
+      ]
+    },
+    "lettuce": {
+      "source": "https://androidfilehost.com/?w=files&flid=169222",
+      "repository": "AR_Beast-Lettuce",
+      "downloads": 6137,
+      "files": [
+        {
+          "name": "AR_Beast™-R1.zip",
+          "url": "https://androidfilehost.com/?fid=817550096634759873",
+          "downloads": 180
+        },
+        {
+          "name": "AR_Beast™-R2.zip",
+          "url": "https://androidfilehost.com/?fid=817550096634761879",
+          "downloads": 523
+        },
+        {
+          "name": "AR_Beast™-R3.zip",
+          "url": "https://androidfilehost.com/?fid=673368273298962801",
+          "downloads": 264
+        },
+        {
+          "name": "AR_Beast™-R4.zip",
+          "url": "https://androidfilehost.com/?fid=961840155545586772",
+          "downloads": 134
+        },
+        {
+          "name": "AR_Beast™-R5.zip",
+          "url": "https://androidfilehost.com/?fid=889764386195922479",
+          "downloads": 450
+        },
+        {
+          "name": "AR_Beast™-R6.zip",
+          "url": "https://androidfilehost.com/?fid=745849072291677462",
+          "downloads": 2562
+        },
+        {
+          "name": "AR_Beast™-R7.zip",
+          "url": "https://androidfilehost.com/?fid=673791459329069884",
+          "downloads": 1780
+        },
+        {
+          "name": "DT2W Enabler.zip",
+          "url": "https://androidfilehost.com/?fid=817550096634759905",
+          "downloads": 244
+        }
+      ]
+    },
+    "zuk": {
+      "source": "https://androidfilehost.com/?w=files&flid=238508",
+      "repository": "AR_Beast-Zuk_Z2",
+      "downloads": 18138,
+      "files": [
+        {
+          "name": "AR_Beast™-Z2_Plus-R1.zip",
+          "url": "https://androidfilehost.com/?fid=817906626617955777",
+          "downloads": 493
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R2-newtrees.zip",
+          "url": "https://androidfilehost.com/?fid=889964283620778048",
+          "downloads": 1103
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R2-oldtrees.zip",
+          "url": "https://androidfilehost.com/?fid=745849072291700478",
+          "downloads": 1015
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R3-newtrees.zip",
+          "url": "https://androidfilehost.com/?fid=818070582850487909",
+          "downloads": 1907
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R3-oldtrees.zip",
+          "url": "https://androidfilehost.com/?fid=746010030569949139",
+          "downloads": 782
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R4-newtrees.zip",
+          "url": "https://androidfilehost.com/?fid=890129502657580760",
+          "downloads": 1148
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R4-oldtrees-.zip",
+          "url": "https://androidfilehost.com/?fid=673956719939817285",
+          "downloads": 252
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R5-newtrees.zip",
+          "url": "https://androidfilehost.com/?fid=962187416754463194",
+          "downloads": 1845
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R5-oldtrees.zip",
+          "url": "https://androidfilehost.com/?fid=818070582850495362",
+          "downloads": 340
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R6-NO_treble-NEW.zip",
+          "url": "https://androidfilehost.com/?fid=890129502657593208",
+          "downloads": 3307
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R6-NO_treble-OLD.zip",
+          "url": "https://androidfilehost.com/?fid=818070582850502955",
+          "downloads": 1327
+        },
+        {
+          "name": "AR_Beast™-Z2_Plus-R6-TREBLE.zip",
+          "url": "https://androidfilehost.com/?fid=818070582850502954",
+          "downloads": 4619
+        }
+      ]
+    },
+    "adiutor": {
+      "source": "https://androidfilehost.com/?w=files&flid=195120",
+      "repository": "KernelAdiutor-Mod",
+      "downloads": 29883,
+      "files": [
+        {
+          "name": "KA-MOD-release1.apk",
+          "url": "https://androidfilehost.com/?fid=673368273298968225",
+          "downloads": 5869
+        },
+        {
+          "name": "KA-MOD-release2.apk",
+          "url": "https://androidfilehost.com/?fid=889764386195920831",
+          "downloads": 1079
+        },
+        {
+          "name": "KA-MOD-release3.apk",
+          "url": "https://androidfilehost.com/?fid=889764386195922456",
+          "downloads": 505
+        },
+        {
+          "name": "KA-MOD-release4.apk",
+          "url": "https://androidfilehost.com/?fid=889964283620754630",
+          "downloads": 1208
+        },
+        {
+          "name": "KA-MOD-release5.apk",
+          "url": "https://androidfilehost.com/?fid=745849072291697405",
+          "downloads": 1321
+        },
+        {
+          "name": "KA-MOD-release6.apk",
+          "url": "https://androidfilehost.com/?fid=818070582850487908",
+          "downloads": 1754
+        },
+        {
+          "name": "KA-MOD-release7.apk",
+          "url": "https://androidfilehost.com/?fid=818070582850490285",
+          "downloads": 18147
+        }
+      ]
+    }
+  },
+  "repositories": [
+    {
+      "name": "AR_Beast-Tomato",
+      "url": "https://github.com/AR-Beast/AR_Beast-Tomato",
+      "stars": 7,
+      "forks": 8,
+      "is_fork": false
+    },
+    {
+      "name": "AR_Beast-AnyKernel2",
+      "url": "https://github.com/AR-Beast/AR_Beast-AnyKernel2",
+      "stars": 2,
+      "forks": 2,
+      "is_fork": true
+    },
+    {
+      "name": "AR_Beast-Lettuce",
+      "url": "https://github.com/AR-Beast/AR_Beast-Lettuce",
+      "stars": 2,
+      "forks": 3,
+      "is_fork": false
+    },
+    {
+      "name": "GCC-UBER-Prebuilts",
+      "url": "https://github.com/AR-Beast/GCC-UBER-Prebuilts",
+      "stars": 1,
+      "forks": 2,
+      "is_fork": false
+    },
+    {
+      "name": "AR_Beast-A106",
+      "url": "https://github.com/AR-Beast/AR_Beast-A106",
+      "stars": 1,
+      "forks": 1,
+      "is_fork": false
+    },
+    {
+      "name": "KernelAdiutor-Mod",
+      "url": "https://github.com/AR-Beast/KernelAdiutor-Mod",
+      "stars": 5,
+      "forks": 3,
+      "is_fork": false
+    },
+    {
+      "name": "AR_Beast-Zuk_Z2",
+      "url": "https://github.com/AR-Beast/AR_Beast-Zuk_Z2",
+      "stars": 4,
+      "forks": 3,
+      "is_fork": false
+    },
+    {
+      "name": "AR_Beast-Zuk_Z2-4.4",
+      "url": "https://github.com/AR-Beast/AR_Beast-Zuk_Z2-4.4",
+      "stars": 1,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "KernelAdiutor",
+      "url": "https://github.com/AR-Beast/KernelAdiutor",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": true
+    }
+  ],
+  "profile": {
+    "devices": [
+      {
+        "name": "Yureka 4G Yu",
+        "url": "https://androidfilehost.com/?w=files&flid=143670",
+        "files": 15,
+        "downloads": 8281
+      },
+      {
+        "name": "Yuphoria YU",
+        "url": "https://androidfilehost.com/?w=files&flid=143675",
+        "files": 13,
+        "downloads": 8977
+      },
+      {
+        "name": "Unite A106 Micromax",
+        "url": "https://androidfilehost.com/?w=files&flid=143677",
+        "files": 0,
+        "downloads": 0
+      },
+      {
+        "name": "Generic Device/Other -Android-",
+        "url": "https://androidfilehost.com/?w=files&flid=195114",
+        "files": 8,
+        "downloads": 36730
+      },
+      {
+        "name": "Zuk Z2 Lenovo",
+        "url": "https://androidfilehost.com/?w=files&flid=238508",
+        "files": 12,
+        "downloads": 18138
+      },
+      {
+        "name": "Poco F1 Xiaomi",
+        "url": "https://androidfilehost.com/?w=files&flid=296746",
+        "files": 0,
+        "downloads": 0
+      }
+    ],
+    "folders": [
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=143670",
+        "files": 0,
+        "downloads": 0
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=147366",
+        "files": 4,
+        "downloads": 2353
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=147370",
+        "files": 0,
+        "downloads": 0
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=147398",
+        "files": 0,
+        "downloads": 0
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=160873",
+        "files": 11,
+        "downloads": 5928
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=143675",
+        "files": 5,
+        "downloads": 2840
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=169222",
+        "files": 8,
+        "downloads": 6137
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=143677",
+        "files": 0,
+        "downloads": 0
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=195114",
+        "files": 1,
+        "downloads": 6847
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=195120",
+        "files": 7,
+        "downloads": 29883
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=238508",
+        "files": 12,
+        "downloads": 18138
+      },
+      {
+        "url": "https://androidfilehost.com/?w=files&flid=296746",
+        "files": 0,
+        "downloads": 0
+      }
+    ],
+    "files": [
+      {
+        "name": "Data toggle fix (complete) For N.zip",
+        "url": "https://androidfilehost.com/?fid=745425885120712014",
+        "downloads": 1213
+      },
+      {
+        "name": "Data Toggle Fix Crdroid.zip",
+        "url": "https://androidfilehost.com/?fid=745425885120699886",
+        "downloads": 376
+      },
+      {
+        "name": "Data Toggle fix n.zip",
+        "url": "https://androidfilehost.com/?fid=385035244224411870",
+        "downloads": 629
+      },
+      {
+        "name": "Data Toggle fix Rr unofficial .zip",
+        "url": "https://androidfilehost.com/?fid=529152257862705596",
+        "downloads": 135
+      },
+      {
+        "name": "AR_Beast™-Kernel R1.zip",
+        "url": "https://androidfilehost.com/?fid=817550096634752876",
+        "downloads": 137
+      },
+      {
+        "name": "AR_Beast™-Kernel R2.zip",
+        "url": "https://androidfilehost.com/?fid=745425885120715995",
+        "downloads": 379
+      },
+      {
+        "name": "AR_Beast™-Kernel R3.zip",
+        "url": "https://androidfilehost.com/?fid=457095661767150751",
+        "downloads": 553
+      },
+      {
+        "name": "AR_Beast™-Kernel R4.zip",
+        "url": "https://androidfilehost.com/?fid=673368273298946948",
+        "downloads": 383
+      },
+      {
+        "name": "AR_Beast™-Kernel R5.zip",
+        "url": "https://androidfilehost.com/?fid=529152257862723716",
+        "downloads": 351
+      },
+      {
+        "name": "AR_Beast™-Kernel R6 NH and MB.zip",
+        "url": "https://androidfilehost.com/?fid=961840155545572399",
+        "downloads": 83
+      },
+      {
+        "name": "AR_Beast™-Kernel R6.zip",
+        "url": "https://androidfilehost.com/?fid=745425885120738452",
+        "downloads": 336
+      },
+      {
+        "name": "AR_Beast™-Kernel R7 NH and MB.zip",
+        "url": "https://androidfilehost.com/?fid=889764386195915116",
+        "downloads": 180
+      },
+      {
+        "name": "AR_Beast™-Kernel R7.zip",
+        "url": "https://androidfilehost.com/?fid=745425885120745455",
+        "downloads": 932
+      },
+      {
+        "name": "AR_Beast™-Kernel R8-O.zip",
+        "url": "https://androidfilehost.com/?fid=962021903579481993",
+        "downloads": 750
+      },
+      {
+        "name": "AR_Beast™-Kernel R9-O.zip",
+        "url": "https://androidfilehost.com/?fid=818070582850488842",
+        "downloads": 1844
+      },
+      {
+        "name": "Data toggle fix (complete) For N.zip",
+        "url": "https://androidfilehost.com/?fid=817550096634750295",
+        "downloads": 669
+      },
+      {
+        "name": "Data Toggle fix Yuphoria Rr volte.zip",
+        "url": "https://androidfilehost.com/?fid=457095661767129477",
+        "downloads": 1053
+      },
+      {
+        "name": "Data Toggle fix Yuphoria Rr.zip",
+        "url": "https://androidfilehost.com/?fid=745425885120699898",
+        "downloads": 178
+      },
+      {
+        "name": "Data Toggle fix Yuphoria.zip",
+        "url": "https://androidfilehost.com/?fid=385035244224412153",
+        "downloads": 617
+      },
+      {
+        "name": "Data Toggle fix yuphria rr-new.zip",
+        "url": "https://androidfilehost.com/?fid=673368273298925404",
+        "downloads": 323
+      },
+      {
+        "name": "AR_Beast™-R1.zip",
+        "url": "https://androidfilehost.com/?fid=817550096634759873",
+        "downloads": 180
+      },
+      {
+        "name": "AR_Beast™-R2.zip",
+        "url": "https://androidfilehost.com/?fid=817550096634761879",
+        "downloads": 523
+      },
+      {
+        "name": "AR_Beast™-R3.zip",
+        "url": "https://androidfilehost.com/?fid=673368273298962801",
+        "downloads": 264
+      },
+      {
+        "name": "AR_Beast™-R4.zip",
+        "url": "https://androidfilehost.com/?fid=961840155545586772",
+        "downloads": 134
+      },
+      {
+        "name": "AR_Beast™-R5.zip",
+        "url": "https://androidfilehost.com/?fid=889764386195922479",
+        "downloads": 450
+      },
+      {
+        "name": "AR_Beast™-R6.zip",
+        "url": "https://androidfilehost.com/?fid=745849072291677462",
+        "downloads": 2562
+      },
+      {
+        "name": "AR_Beast™-R7.zip",
+        "url": "https://androidfilehost.com/?fid=673791459329069884",
+        "downloads": 1780
+      },
+      {
+        "name": "DT2W Enabler.zip",
+        "url": "https://androidfilehost.com/?fid=817550096634759905",
+        "downloads": 244
+      },
+      {
+        "name": "Volte fix.zip",
+        "url": "https://androidfilehost.com/?fid=5862345805528059491",
+        "downloads": 6847
+      },
+      {
+        "name": "KA-MOD-release1.apk",
+        "url": "https://androidfilehost.com/?fid=673368273298968225",
+        "downloads": 5869
+      },
+      {
+        "name": "KA-MOD-release2.apk",
+        "url": "https://androidfilehost.com/?fid=889764386195920831",
+        "downloads": 1079
+      },
+      {
+        "name": "KA-MOD-release3.apk",
+        "url": "https://androidfilehost.com/?fid=889764386195922456",
+        "downloads": 505
+      },
+      {
+        "name": "KA-MOD-release4.apk",
+        "url": "https://androidfilehost.com/?fid=889964283620754630",
+        "downloads": 1208
+      },
+      {
+        "name": "KA-MOD-release5.apk",
+        "url": "https://androidfilehost.com/?fid=745849072291697405",
+        "downloads": 1321
+      },
+      {
+        "name": "KA-MOD-release6.apk",
+        "url": "https://androidfilehost.com/?fid=818070582850487908",
+        "downloads": 1754
+      },
+      {
+        "name": "KA-MOD-release7.apk",
+        "url": "https://androidfilehost.com/?fid=818070582850490285",
+        "downloads": 18147
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R1.zip",
+        "url": "https://androidfilehost.com/?fid=817906626617955777",
+        "downloads": 493
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R2-newtrees.zip",
+        "url": "https://androidfilehost.com/?fid=889964283620778048",
+        "downloads": 1103
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R2-oldtrees.zip",
+        "url": "https://androidfilehost.com/?fid=745849072291700478",
+        "downloads": 1015
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R3-newtrees.zip",
+        "url": "https://androidfilehost.com/?fid=818070582850487909",
+        "downloads": 1907
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R3-oldtrees.zip",
+        "url": "https://androidfilehost.com/?fid=746010030569949139",
+        "downloads": 782
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R4-newtrees.zip",
+        "url": "https://androidfilehost.com/?fid=890129502657580760",
+        "downloads": 1148
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R4-oldtrees-.zip",
+        "url": "https://androidfilehost.com/?fid=673956719939817285",
+        "downloads": 252
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R5-newtrees.zip",
+        "url": "https://androidfilehost.com/?fid=962187416754463194",
+        "downloads": 1845
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R5-oldtrees.zip",
+        "url": "https://androidfilehost.com/?fid=818070582850495362",
+        "downloads": 340
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R6-NO_treble-NEW.zip",
+        "url": "https://androidfilehost.com/?fid=890129502657593208",
+        "downloads": 3307
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R6-NO_treble-OLD.zip",
+        "url": "https://androidfilehost.com/?fid=818070582850502955",
+        "downloads": 1327
+      },
+      {
+        "name": "AR_Beast™-Z2_Plus-R6-TREBLE.zip",
+        "url": "https://androidfilehost.com/?fid=818070582850502954",
+        "downloads": 4619
+      }
+    ],
+    "checked_at": "2026-09-10T20:26:16+00:00"
+  }
+}
